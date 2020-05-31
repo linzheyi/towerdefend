@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/startbutton1.jpg</file>
+        <file>picture/mainwindow.jpg</file>
+        <file>picture/secondwindow.gif</file>
+        <file>picture/backbutton.jpg</file>
+        <file>picture/end.jpg</file>
+        <file>picture/easybutton.jpg</file>
+        <file>picture/easymap.jpg</file>
+        <file>picture/tower1.jpg</file>
+        <file>picture/settower_new.jpg</file>
+        <file>picture/enemy.jpg</file>
+    </qresource>
+</RCC>
